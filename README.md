@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/adam-standish">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/cloudflips321">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning [Brad Traversy's React Front To Back 2024](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=KEEPLEARNING)
 - 💬 Ask me about Travel, Sports, Comedy, Food, School, Windows 95
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: Reach out!
 
 - ---
 
