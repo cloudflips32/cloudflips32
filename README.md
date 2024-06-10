@@ -14,7 +14,7 @@
 **cloudflips32/cloudflips32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on [a Github Profile Search Page](https://github.com/cloudflips32/react-github-finder)
+- 🔭 I’m currently working on [a House Marketplace App](https://github.com/cloudflips32/react-house-marketplace)
 - 🌱 I’m currently learning [Brad Traversy's "React Front To Back 2024"](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=KEEPLEARNING)
 - 💬 Ask me about Travel, Sports, Comedy, Food, School, Windows 95
 - 😄 Pronouns: He/Him
