@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [a House Marketplace App](https://github.com/cloudflips32/react-house-marketplace)
 - 🌱 I’m currently learning [Brad Traversy's "React Front To Back 2024"](https://www.udemy.com/course/react-front-to-back-2022/?couponCode=KEEPLEARNING)
-- 💬 Ask me about Travel, Sports, Comedy, Food, School, Windows 95
+- 💬 Ask me about: Travel, Sports, Comedy, Food, School, Windows 95
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Reach out!
 
