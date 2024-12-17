@@ -14,7 +14,7 @@
 **cloudflips32/cloudflips32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: [the FSW Software Engineering Club website](https://github.com/cloudflips32/se-club)
+- 🔭 I’m currently working on: [FSW Software Engineering Club website](https://github.com/cloudflips32/se-club)
 - 🌱 I’m currently learning: [Firebase](https://firebase.google.com/)
 - 💬 Ask me about: Travel, Sports, Comedy, Food, School, Windows 95
 - 😄 Pronouns: He/Him
